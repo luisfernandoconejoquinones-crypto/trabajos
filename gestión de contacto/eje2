@@ -19,9 +19,9 @@ def registrar_contacto():
         with open("contactos.txt", "a", encoding="utf-8") as archivo:
             registro = f"{documento},{nombre},{apellido},{email},{sexo}\n"
             archivo.write(registro)
-        print("✅ Contacto registrado correctamente.")
+        print(" Contacto registrado correctamente.")
     except IOError as error:
-        print(f"❌ Error al guardar el contacto: {error}")
+        print(f" Error al guardar el contacto: {error}")
 
 def buscar_contacto():
     doc_buscar = input("Digite el documento a buscar: ")
@@ -43,10 +43,10 @@ def buscar_contacto():
                     break
 
         if not existe:
-            print("⚠️ No existe un contacto con ese documento.")
+            print(" No existe un contacto con ese documento.")
 
     except FileNotFoundError:
-        print("📌 Aún no hay contactos guardados. Registre uno primero.")
+        print(" Aún no hay contactos guardados. Registre uno primero.")
     except Exception as error:
         print(f"Error inesperado: {error}")
 
@@ -76,8 +76,9 @@ while True:
         mostrar_lista()
 
     elif eleccion == "4":
-        print("👋 Cerrando agenda... ¡Hasta luego!")
+        print(" Cerrando agenda... ¡Hasta luego!")
         break
 
     else:
-        print("❌ Opción incorrecta. Intente nuevamente.")
+        print(" Opción incorrecta. Intente nuevamente.")
+
