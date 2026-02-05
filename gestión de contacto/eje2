@@ -1,0 +1,83 @@
+def mostrar_menu():
+    print("\n--- AGENDA DE CONTACTOS ---")
+    print("1. Registrar nuevo contacto")
+    print("2. Buscar contacto por documento")
+    print("3. Mostrar todos los contactos")
+    print("4. Salir del programa")
+    return input("Elija una opción: ")
+
+def registrar_contacto():
+    # Pedimos los datos del contacto
+    documento = input("Documento: ")
+    nombre = input("Nombre(s): ")
+    apellido = input("Apellido(s): ")
+    email = input("Correo: ")
+    sexo = input("Sexo/Género: ")
+
+    # Guardamos en el archivo sin borrar lo anterior
+    try:
+        with open("contactos.txt", "a", encoding="utf-8") as archivo:
+            registro = f"{documento},{nombre},{apellido},{email},{sexo}\n"
+            archivo.write(registro)
+        print("✅ Contacto registrado correctamente.")
+    except IOError as error:
+        print(f"❌ Error al guardar el contacto: {error}")
+
+def buscar_contacto():
+    doc_buscar = input("Digite el documento a buscar: ")
+    existe = False
+
+    try:
+        with open("contactos.txt", "r", encoding="utf-8") as archivo:
+            for linea in archivo:
+                info = linea.strip().split(",")
+
+                if info[0] == doc_buscar:
+                    print("\n--- INFORMACIÓN ENCONTRADA ---")
+                    print(f"Documento: {info[0]}")
+                    print(f"Nombre: {info[1]}")
+                    print(f"Apellido: {info[2]}")
+                    print(f"Correo: {info[3]}")
+                    print(f"Género: {info[4]}")
+                    existe = True
+                    break
+
+        if not existe:
+            print("⚠️ No existe un contacto con ese documento.")
+
+    except FileNotFoundError:
+        print("📌 Aún no hay contactos guardados. Registre uno primero.")
+    except Exception as error:
+        print(f"Error inesperado: {error}")
+
+def mostrar_lista():
+    print("\n--- CONTACTOS REGISTRADOS ---")
+
+    try:
+        with open("contactos.txt", "r", encoding="utf-8") as archivo:
+            for linea in archivo:
+                datos = linea.strip().split(",")
+                print(f"Documento: {datos[0]} | Nombre: {datos[1]} {datos[2]} | Email: {datos[3]}")
+
+    except FileNotFoundError:
+        print("📭 No se encontraron contactos aún.")
+
+# Programa principal
+while True:
+    eleccion = mostrar_menu()
+
+    if eleccion == "1":
+        registrar_contacto()
+
+    elif eleccion == "2":
+        buscar_contacto()
+
+    elif eleccion == "3":
+        mostrar_lista()
+
+    elif eleccion == "4":
+        print("👋 Cerrando agenda... ¡Hasta luego!")
+        break
+
+    else:
+        print("❌ Opción incorrecta. Intente nuevamente.")
