@@ -60,7 +60,7 @@ def mostrar_lista():
                 print(f"Documento: {datos[0]} | Nombre: {datos[1]} {datos[2]} | Email: {datos[3]}")
 
     except FileNotFoundError:
-        print("📭 No se encontraron contactos aún.")
+        print(" No se encontraron contactos aún.")
 
 # Programa principal
 while True:
@@ -81,4 +81,5 @@ while True:
 
     else:
         print(" Opción incorrecta. Intente nuevamente.")
+
 
