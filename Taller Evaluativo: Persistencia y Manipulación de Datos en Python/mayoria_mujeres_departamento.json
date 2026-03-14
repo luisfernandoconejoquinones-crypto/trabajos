@@ -1,0 +1,66 @@
+[
+    {
+        "Departamento": "Cauca",
+        "Cantidad_Votantes_Hombres": 1200,
+        "Cantidad_Votantes_Mujeres": 2400,
+        "Total_Votantes": 3600,
+        "Porcentaje_Hombres": 0.33,
+        "Porcentaje_Mujeres": 0.67
+    },
+    {
+        "Departamento": "Antioquia",
+        "Cantidad_Votantes_Hombres": 8000,
+        "Cantidad_Votantes_Mujeres": 8500,
+        "Total_Votantes": 16500,
+        "Porcentaje_Hombres": 0.48,
+        "Porcentaje_Mujeres": 0.52
+    },
+    {
+        "Departamento": "Cundinamarca",
+        "Cantidad_Votantes_Hombres": 6500,
+        "Cantidad_Votantes_Mujeres": 7000,
+        "Total_Votantes": 13500,
+        "Porcentaje_Hombres": 0.48,
+        "Porcentaje_Mujeres": 0.52
+    },
+    {
+        "Departamento": "Valle del Cauca",
+        "Cantidad_Votantes_Hombres": 7200,
+        "Cantidad_Votantes_Mujeres": 7600,
+        "Total_Votantes": 14800,
+        "Porcentaje_Hombres": 0.49,
+        "Porcentaje_Mujeres": 0.51
+    },
+    {
+        "Departamento": "Meta",
+        "Cantidad_Votantes_Hombres": 2500,
+        "Cantidad_Votantes_Mujeres": 2700,
+        "Total_Votantes": 5200,
+        "Porcentaje_Hombres": 0.48,
+        "Porcentaje_Mujeres": 0.52
+    },
+    {
+        "Departamento": "Nari\u00f1o",
+        "Cantidad_Votantes_Hombres": 4300,
+        "Cantidad_Votantes_Mujeres": 4600,
+        "Total_Votantes": 8900,
+        "Porcentaje_Hombres": 0.48,
+        "Porcentaje_Mujeres": 0.52
+    },
+    {
+        "Departamento": "Santander",
+        "Cantidad_Votantes_Hombres": 5100,
+        "Cantidad_Votantes_Mujeres": 5200,
+        "Total_Votantes": 10300,
+        "Porcentaje_Hombres": 0.5,
+        "Porcentaje_Mujeres": 0.5
+    },
+    {
+        "Departamento": "Boyac\u00e1",
+        "Cantidad_Votantes_Hombres": 3000,
+        "Cantidad_Votantes_Mujeres": 3400,
+        "Total_Votantes": 6400,
+        "Porcentaje_Hombres": 0.47,
+        "Porcentaje_Mujeres": 0.53
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "nombre": "Egan Bernal",
+        "edad": 29,
+        "sexo": "Masculino",
+        "estatura": 1.75,
+        "peso": 60,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Zipaquir\u00e1"
+    },
+    {
+        "nombre": "Martha Bayona",
+        "edad": 30,
+        "sexo": "Femenino",
+        "estatura": 1.65,
+        "peso": 68,
+        "deporte": "Ciclismo de pista",
+        "ciudad_residencia": "Bucaramanga"
+    },
+    {
+        "nombre": "Fernando Gaviria",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 71,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "La Ceja"
+    },
+    {
+        "nombre": "Daniel Felipe Mart\u00ednez",
+        "edad": 29,
+        "sexo": "Masculino",
+        "estatura": 1.72,
+        "peso": 63,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Soacha"
+    },
+    {
+        "nombre": "Harold Tejada",
+        "edad": 28,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 65,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Pitalito"
+    },
+    {
+        "nombre": "Paula Pati\u00f1o",
+        "edad": 28,
+        "sexo": "Femenino",
+        "estatura": 1.63,
+        "peso": 52,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "La Ceja"
+    },
+    {
+        "nombre": "Egan Bernal",
+        "edad": 29,
+        "sexo": "Masculino",
+        "estatura": 1.75,
+        "peso": 60,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Zipaquir\u00e1"
+    },
+    {
+        "nombre": "Sergio Higuita",
+        "edad": 28,
+        "sexo": "Masculino",
+        "estatura": 1.63,
+        "peso": 57,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Miguel \u00c1ngel L\u00f3pez",
+        "edad": 32,
+        "sexo": "Masculino",
+        "estatura": 1.64,
+        "peso": 59,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Pesca"
+    },
+    {
+        "nombre": "Brandon Rivera",
+        "edad": 30,
+        "sexo": "Masculino",
+        "estatura": 1.78,
+        "peso": 66,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Zipaquir\u00e1"
+    },
+    {
+        "nombre": "Einer Rubio",
+        "edad": 28,
+        "sexo": "Masculino",
+        "estatura": 1.64,
+        "peso": 56,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Ch\u00edquiza"
+    },
+    {
+        "nombre": "Fernando Gaviria",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 71,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "La Ceja"
+    },
+    {
+        "nombre": "Juan Sebasti\u00e1n Molano",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 72,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Paipa"
+    },
+    {
+        "nombre": "Ivan Ramiro Sosa",
+        "edad": 28,
+        "sexo": "Masculino",
+        "estatura": 1.67,
+        "peso": 52,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Pasca"
+    },
+    {
+        "nombre": "Dayer Quintana",
+        "edad": 33,
+        "sexo": "Masculino",
+        "estatura": 1.67,
+        "peso": 58,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "C\u00f3mbita"
+    },
+    {
+        "nombre": "Argiro Zapata",
+        "edad": 30,
+        "sexo": "Masculino",
+        "estatura": 1.75,
+        "peso": 65,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Walter Vargas",
+        "edad": 33,
+        "sexo": "Masculino",
+        "estatura": 1.83,
+        "peso": 70,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "El Carmen de Viboral"
+    },
+    {
+        "nombre": "Rodrigo Contreras",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.76,
+        "peso": 63,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Villapinz\u00f3n"
+    },
+    {
+        "nombre": "Liliana Moreno",
+        "edad": 33,
+        "sexo": "Femenino",
+        "estatura": 1.55,
+        "peso": 46,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Santiago Ram\u00edrez",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 86,
+        "deporte": "Ciclismo de pista",
+        "ciudad_residencia": "Cali"
+    }
+]

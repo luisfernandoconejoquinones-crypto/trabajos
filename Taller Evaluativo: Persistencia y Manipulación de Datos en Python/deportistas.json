@@ -1,0 +1,1901 @@
+[
+    {
+        "nombre": "Mariana Paj\u00f3n",
+        "edad": 34,
+        "sexo": "Femenino",
+        "estatura": 1.58,
+        "peso": 53,
+        "deporte": "BMX",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Luis D\u00edaz",
+        "edad": 29,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 73,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Barranquilla"
+    },
+    {
+        "nombre": "Egan Bernal",
+        "edad": 29,
+        "sexo": "Masculino",
+        "estatura": 1.75,
+        "peso": 60,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Zipaquir\u00e1"
+    },
+    {
+        "nombre": "Caterine Ibarg\u00fcen",
+        "edad": 42,
+        "sexo": "Femenino",
+        "estatura": 1.81,
+        "peso": 70,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Apartad\u00f3"
+    },
+    {
+        "nombre": "Linda Caicedo",
+        "edad": 21,
+        "sexo": "Femenino",
+        "estatura": 1.61,
+        "peso": 53,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "James Rodr\u00edguez",
+        "edad": 34,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 75,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "C\u00facuta"
+    },
+    {
+        "nombre": "Yulimar Rojas (Invitada)",
+        "edad": 30,
+        "sexo": "Femenino",
+        "estatura": 1.92,
+        "peso": 72,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "David Ospina",
+        "edad": 37,
+        "sexo": "Masculino",
+        "estatura": 1.83,
+        "peso": 80,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Sara L\u00f3pez",
+        "edad": 31,
+        "sexo": "Femenino",
+        "estatura": 1.62,
+        "peso": 65,
+        "deporte": "Tiro con arco",
+        "ciudad_residencia": "Pereira"
+    },
+    {
+        "nombre": "\u00c1ngel Barajas",
+        "edad": 19,
+        "sexo": "Masculino",
+        "estatura": 1.68,
+        "peso": 58,
+        "deporte": "Gimnasia art\u00edstica",
+        "ciudad_residencia": "C\u00facuta"
+    },
+    {
+        "nombre": "Carlos Alberto Ram\u00edrez",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.7,
+        "peso": 75,
+        "deporte": "BMX",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Rigoberto Ur\u00e1n",
+        "edad": 39,
+        "sexo": "Masculino",
+        "estatura": 1.73,
+        "peso": 63,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Maria Camila Osorio",
+        "edad": 24,
+        "sexo": "Femenino",
+        "estatura": 1.68,
+        "peso": 62,
+        "deporte": "Tenis",
+        "ciudad_residencia": "C\u00facuta"
+    },
+    {
+        "nombre": "Daniel Gal\u00e1n",
+        "edad": 29,
+        "sexo": "Masculino",
+        "estatura": 1.91,
+        "peso": 82,
+        "deporte": "Tenis",
+        "ciudad_residencia": "Bucaramanga"
+    },
+    {
+        "nombre": "Yuberjen Mart\u00ednez",
+        "edad": 34,
+        "sexo": "Masculino",
+        "estatura": 1.65,
+        "peso": 52,
+        "deporte": "Boxeo",
+        "ciudad_residencia": "Turbo"
+    },
+    {
+        "nombre": "Ingrit Valencia",
+        "edad": 37,
+        "sexo": "Femenino",
+        "estatura": 1.61,
+        "peso": 51,
+        "deporte": "Boxeo",
+        "ciudad_residencia": "Ibagu\u00e9"
+    },
+    {
+        "nombre": "Tatiana Calder\u00f3n",
+        "edad": 32,
+        "sexo": "Femenino",
+        "estatura": 1.63,
+        "peso": 58,
+        "deporte": "Automovilismo",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Juan Guillermo Cuadrado",
+        "edad": 37,
+        "sexo": "Masculino",
+        "estatura": 1.79,
+        "peso": 72,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Necocl\u00ed"
+    },
+    {
+        "nombre": "Anthony Zambrano",
+        "edad": 28,
+        "sexo": "Masculino",
+        "estatura": 1.83,
+        "peso": 74,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Barranquilla"
+    },
+    {
+        "nombre": "Lorena Arenas",
+        "edad": 32,
+        "sexo": "Femenino",
+        "estatura": 1.62,
+        "peso": 50,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Pereira"
+    },
+    {
+        "nombre": "Jhon Arias",
+        "edad": 28,
+        "sexo": "Masculino",
+        "estatura": 1.68,
+        "peso": 68,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Quibd\u00f3"
+    },
+    {
+        "nombre": "Valeria Arboleda",
+        "edad": 23,
+        "sexo": "Femenino",
+        "estatura": 1.7,
+        "peso": 57,
+        "deporte": "Boxeo",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Kevin Quintero",
+        "edad": 27,
+        "sexo": "Masculino",
+        "estatura": 1.78,
+        "peso": 85,
+        "deporte": "Ciclismo de pista",
+        "ciudad_residencia": "Palmira"
+    },
+    {
+        "nombre": "Martha Bayona",
+        "edad": 30,
+        "sexo": "Femenino",
+        "estatura": 1.65,
+        "peso": 68,
+        "deporte": "Ciclismo de pista",
+        "ciudad_residencia": "Bucaramanga"
+    },
+    {
+        "nombre": "Fernando Gaviria",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 71,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "La Ceja"
+    },
+    {
+        "nombre": "Santiago Buitrago",
+        "edad": 26,
+        "sexo": "Masculino",
+        "estatura": 1.74,
+        "peso": 59,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Eider Ar\u00e9valo",
+        "edad": 33,
+        "sexo": "Masculino",
+        "estatura": 1.65,
+        "peso": 58,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Pitalito"
+    },
+    {
+        "nombre": "Leicy Santos",
+        "edad": 29,
+        "sexo": "Femenino",
+        "estatura": 1.6,
+        "peso": 55,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Santa Cruz de Lorica"
+    },
+    {
+        "nombre": "Mateo Cassierra",
+        "edad": 28,
+        "sexo": "Masculino",
+        "estatura": 1.86,
+        "peso": 79,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Barbacoas"
+    },
+    {
+        "nombre": "Camilo Villegas",
+        "edad": 44,
+        "sexo": "Masculino",
+        "estatura": 1.75,
+        "peso": 73,
+        "deporte": "Golf",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Jossimar Calvo",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.6,
+        "peso": 55,
+        "deporte": "Gimnasia art\u00edstica",
+        "ciudad_residencia": "C\u00facuta"
+    },
+    {
+        "nombre": "Luis Javier Mosquera",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.65,
+        "peso": 67,
+        "deporte": "Levantamiento de pesas",
+        "ciudad_residencia": "Yumbo"
+    },
+    {
+        "nombre": "Yenni Alvarez",
+        "edad": 30,
+        "sexo": "Femenino",
+        "estatura": 1.58,
+        "peso": 59,
+        "deporte": "Levantamiento de pesas",
+        "ciudad_residencia": "Turbo"
+    },
+    {
+        "nombre": "Mari Leivis S\u00e1nchez",
+        "edad": 34,
+        "sexo": "Femenino",
+        "estatura": 1.62,
+        "peso": 71,
+        "deporte": "Levantamiento de pesas",
+        "ciudad_residencia": "Turbo"
+    },
+    {
+        "nombre": "Yeison L\u00f3pez",
+        "edad": 26,
+        "sexo": "Masculino",
+        "estatura": 1.7,
+        "peso": 89,
+        "deporte": "Levantamiento de pesas",
+        "ciudad_residencia": "Itsmina"
+    },
+    {
+        "nombre": "Francisco Mosquera",
+        "edad": 33,
+        "sexo": "Masculino",
+        "estatura": 1.6,
+        "peso": 67,
+        "deporte": "Levantamiento de pesas",
+        "ciudad_residencia": "Apartad\u00f3"
+    },
+    {
+        "nombre": "Manuela Vanegas",
+        "edad": 25,
+        "sexo": "Femenino",
+        "estatura": 1.69,
+        "peso": 63,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Copacabana"
+    },
+    {
+        "nombre": "Catalina Usme",
+        "edad": 36,
+        "sexo": "Femenino",
+        "estatura": 1.66,
+        "peso": 60,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Marinilla"
+    },
+    {
+        "nombre": "Daniel Felipe Mart\u00ednez",
+        "edad": 29,
+        "sexo": "Masculino",
+        "estatura": 1.72,
+        "peso": 63,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Soacha"
+    },
+    {
+        "nombre": "Harold Tejada",
+        "edad": 28,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 65,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Pitalito"
+    },
+    {
+        "nombre": "Paula Pati\u00f1o",
+        "edad": 28,
+        "sexo": "Femenino",
+        "estatura": 1.63,
+        "peso": 52,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "La Ceja"
+    },
+    {
+        "nombre": "Carolina Arias",
+        "edad": 35,
+        "sexo": "Femenino",
+        "estatura": 1.63,
+        "peso": 58,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "Daniel Mu\u00f1oz",
+        "edad": 29,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 75,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Amalfi"
+    },
+    {
+        "nombre": "Jefferson Lerma",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.79,
+        "peso": 70,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "El Cerrito"
+    },
+    {
+        "nombre": "Davinson S\u00e1nchez",
+        "edad": 29,
+        "sexo": "Masculino",
+        "estatura": 1.87,
+        "peso": 81,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Caloto"
+    },
+    {
+        "nombre": "Jhon Janer Lucum\u00ed",
+        "edad": 27,
+        "sexo": "Masculino",
+        "estatura": 1.87,
+        "peso": 84,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "Johan Mojica",
+        "edad": 33,
+        "sexo": "Masculino",
+        "estatura": 1.79,
+        "peso": 73,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "Richard R\u00edos",
+        "edad": 25,
+        "sexo": "Masculino",
+        "estatura": 1.85,
+        "peso": 78,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Vegach\u00ed"
+    },
+    {
+        "nombre": "Jorge Carrascal",
+        "edad": 27,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 74,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Cartagena"
+    },
+    {
+        "nombre": "Rafael Santos Borr\u00e9",
+        "edad": 30,
+        "sexo": "Masculino",
+        "estatura": 1.74,
+        "peso": 70,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Barranquilla"
+    },
+    {
+        "nombre": "Jhon Jader Dur\u00e1n",
+        "edad": 22,
+        "sexo": "Masculino",
+        "estatura": 1.85,
+        "peso": 80,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Sinisterra Luis",
+        "edad": 26,
+        "sexo": "Masculino",
+        "estatura": 1.72,
+        "peso": 71,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Santander de Quilichao"
+    },
+    {
+        "nombre": "Camilo Vargas",
+        "edad": 37,
+        "sexo": "Masculino",
+        "estatura": 1.85,
+        "peso": 82,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Kevin Mier",
+        "edad": 25,
+        "sexo": "Masculino",
+        "estatura": 1.9,
+        "peso": 80,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Barrancabermeja"
+    },
+    {
+        "nombre": "\u00c1lvaro Montero",
+        "edad": 30,
+        "sexo": "Masculino",
+        "estatura": 1.96,
+        "peso": 92,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "El Molino"
+    },
+    {
+        "nombre": "Juan Camilo Portilla",
+        "edad": 27,
+        "sexo": "Masculino",
+        "estatura": 1.75,
+        "peso": 70,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "Jhon Sol\u00eds",
+        "edad": 21,
+        "sexo": "Masculino",
+        "estatura": 1.78,
+        "peso": 72,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Guacar\u00ed"
+    },
+    {
+        "nombre": "Yerry Mina",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.95,
+        "peso": 94,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Guachen\u00e9"
+    },
+    {
+        "nombre": "Cristian Borja",
+        "edad": 33,
+        "sexo": "Masculino",
+        "estatura": 1.79,
+        "peso": 74,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Quibd\u00f3"
+    },
+    {
+        "nombre": "Santiago Arias",
+        "edad": 34,
+        "sexo": "Masculino",
+        "estatura": 1.78,
+        "peso": 73,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Mateus Uribe",
+        "edad": 34,
+        "sexo": "Masculino",
+        "estatura": 1.82,
+        "peso": 79,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Wilmar Barrios",
+        "edad": 32,
+        "sexo": "Masculino",
+        "estatura": 1.78,
+        "peso": 70,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Cartagena"
+    },
+    {
+        "nombre": "Duvan Zapata",
+        "edad": 34,
+        "sexo": "Masculino",
+        "estatura": 1.89,
+        "peso": 88,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Padilla"
+    },
+    {
+        "nombre": "Luis Muriel",
+        "edad": 34,
+        "sexo": "Masculino",
+        "estatura": 1.79,
+        "peso": 80,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Santo Tom\u00e1s"
+    },
+    {
+        "nombre": "Miguel Borja",
+        "edad": 33,
+        "sexo": "Masculino",
+        "estatura": 1.83,
+        "peso": 84,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Tierralta"
+    },
+    {
+        "nombre": "Juan Fernando Quintero",
+        "edad": 33,
+        "sexo": "Masculino",
+        "estatura": 1.69,
+        "peso": 67,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Carlos Bacca",
+        "edad": 39,
+        "sexo": "Masculino",
+        "estatura": 1.81,
+        "peso": 77,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Puerto Colombia"
+    },
+    {
+        "nombre": "Mayra Ram\u00edrez",
+        "edad": 26,
+        "sexo": "Femenino",
+        "estatura": 1.78,
+        "peso": 70,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Sibat\u00e9"
+    },
+    {
+        "nombre": "Jorelyn Carabal\u00ed",
+        "edad": 28,
+        "sexo": "Femenino",
+        "estatura": 1.72,
+        "peso": 65,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Jamund\u00ed"
+    },
+    {
+        "nombre": "Ana Maria Guzm\u00e1n",
+        "edad": 20,
+        "sexo": "Femenino",
+        "estatura": 1.64,
+        "peso": 57,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Mistrat\u00f3"
+    },
+    {
+        "nombre": "Daniela Montoya",
+        "edad": 35,
+        "sexo": "Femenino",
+        "estatura": 1.62,
+        "peso": 56,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Natalia Gait\u00e1n",
+        "edad": 34,
+        "sexo": "Femenino",
+        "estatura": 1.7,
+        "peso": 62,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Yoreli Rinc\u00f3n",
+        "edad": 32,
+        "sexo": "Femenino",
+        "estatura": 1.68,
+        "peso": 61,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Piedecuesta"
+    },
+    {
+        "nombre": "Nicole Regnier",
+        "edad": 31,
+        "sexo": "Femenino",
+        "estatura": 1.72,
+        "peso": 63,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "Yuliana Lizarazo",
+        "edad": 32,
+        "sexo": "Femenino",
+        "estatura": 1.74,
+        "peso": 65,
+        "deporte": "Tenis",
+        "ciudad_residencia": "C\u00facuta"
+    },
+    {
+        "nombre": "Emiliana Arango",
+        "edad": 25,
+        "sexo": "Femenino",
+        "estatura": 1.7,
+        "peso": 60,
+        "deporte": "Tenis",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Nicolas Barrientos",
+        "edad": 38,
+        "sexo": "Masculino",
+        "estatura": 1.85,
+        "peso": 79,
+        "deporte": "Tenis",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "Cristian Rodr\u00edguez",
+        "edad": 35,
+        "sexo": "Masculino",
+        "estatura": 1.83,
+        "peso": 80,
+        "deporte": "Tenis",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Egan Bernal",
+        "edad": 29,
+        "sexo": "Masculino",
+        "estatura": 1.75,
+        "peso": 60,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Zipaquir\u00e1"
+    },
+    {
+        "nombre": "Nairo Quintana",
+        "edad": 36,
+        "sexo": "Masculino",
+        "estatura": 1.67,
+        "peso": 59,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "C\u00f3mbita"
+    },
+    {
+        "nombre": "Rigoberto Ur\u00e1n",
+        "edad": 39,
+        "sexo": "Masculino",
+        "estatura": 1.73,
+        "peso": 63,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Urrao"
+    },
+    {
+        "nombre": "Sergio Higuita",
+        "edad": 28,
+        "sexo": "Masculino",
+        "estatura": 1.63,
+        "peso": 57,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Esteban Chaves",
+        "edad": 36,
+        "sexo": "Masculino",
+        "estatura": 1.64,
+        "peso": 55,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Miguel \u00c1ngel L\u00f3pez",
+        "edad": 32,
+        "sexo": "Masculino",
+        "estatura": 1.64,
+        "peso": 59,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Pesca"
+    },
+    {
+        "nombre": "Brandon Rivera",
+        "edad": 30,
+        "sexo": "Masculino",
+        "estatura": 1.78,
+        "peso": 66,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Zipaquir\u00e1"
+    },
+    {
+        "nombre": "Einer Rubio",
+        "edad": 28,
+        "sexo": "Masculino",
+        "estatura": 1.64,
+        "peso": 56,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Ch\u00edquiza"
+    },
+    {
+        "nombre": "Fernando Gaviria",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 71,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "La Ceja"
+    },
+    {
+        "nombre": "Juan Sebasti\u00e1n Molano",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 72,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Paipa"
+    },
+    {
+        "nombre": "Ivan Ramiro Sosa",
+        "edad": 28,
+        "sexo": "Masculino",
+        "estatura": 1.67,
+        "peso": 52,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Pasca"
+    },
+    {
+        "nombre": "Winner Anacona",
+        "edad": 37,
+        "sexo": "Masculino",
+        "estatura": 1.79,
+        "peso": 64,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Tunja"
+    },
+    {
+        "nombre": "Diego Camargo",
+        "edad": 27,
+        "sexo": "Masculino",
+        "estatura": 1.74,
+        "peso": 58,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Tuta"
+    },
+    {
+        "nombre": "Jesus David Pe\u00f1a",
+        "edad": 25,
+        "sexo": "Masculino",
+        "estatura": 1.7,
+        "peso": 56,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Zipaquir\u00e1"
+    },
+    {
+        "nombre": "Dayer Quintana",
+        "edad": 33,
+        "sexo": "Masculino",
+        "estatura": 1.67,
+        "peso": 58,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "C\u00f3mbita"
+    },
+    {
+        "nombre": "Argiro Zapata",
+        "edad": 30,
+        "sexo": "Masculino",
+        "estatura": 1.75,
+        "peso": 65,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Walter Vargas",
+        "edad": 33,
+        "sexo": "Masculino",
+        "estatura": 1.83,
+        "peso": 70,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "El Carmen de Viboral"
+    },
+    {
+        "nombre": "Rodrigo Contreras",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.76,
+        "peso": 63,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Villapinz\u00f3n"
+    },
+    {
+        "nombre": "Diana Pe\u00f1uela",
+        "edad": 39,
+        "sexo": "Femenino",
+        "estatura": 1.65,
+        "peso": 55,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Manizales"
+    },
+    {
+        "nombre": "Liliana Moreno",
+        "edad": 33,
+        "sexo": "Femenino",
+        "estatura": 1.55,
+        "peso": 46,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Erika Botero",
+        "edad": 25,
+        "sexo": "Femenino",
+        "estatura": 1.6,
+        "peso": 50,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "La Uni\u00f3n"
+    },
+    {
+        "nombre": "Lina Hern\u00e1ndez",
+        "edad": 26,
+        "sexo": "Femenino",
+        "estatura": 1.62,
+        "peso": 54,
+        "deporte": "Ciclismo de ruta",
+        "ciudad_residencia": "El Carmen de Viboral"
+    },
+    {
+        "nombre": "Santiago Ram\u00edrez",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 86,
+        "deporte": "Ciclismo de pista",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "Cristian Ortega",
+        "edad": 25,
+        "sexo": "Masculino",
+        "estatura": 1.78,
+        "peso": 84,
+        "deporte": "Ciclismo de pista",
+        "ciudad_residencia": "Barranquilla"
+    },
+    {
+        "nombre": "Yarimar Mercado",
+        "edad": 31,
+        "sexo": "Femenino",
+        "estatura": 1.65,
+        "peso": 60,
+        "deporte": "Tiro con arco",
+        "ciudad_residencia": "Pereira"
+    },
+    {
+        "nombre": "Jorge Enr\u00edquez",
+        "edad": 26,
+        "sexo": "Masculino",
+        "estatura": 1.75,
+        "peso": 70,
+        "deporte": "Tiro con arco",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Daniel Pineda",
+        "edad": 32,
+        "sexo": "Masculino",
+        "estatura": 1.72,
+        "peso": 74,
+        "deporte": "Tiro con arco",
+        "ciudad_residencia": "Pereira"
+    },
+    {
+        "nombre": "Ana Maria Rend\u00f3n",
+        "edad": 39,
+        "sexo": "Femenino",
+        "estatura": 1.63,
+        "peso": 62,
+        "deporte": "Tiro con arco",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Valentina Acosta",
+        "edad": 26,
+        "sexo": "Femenino",
+        "estatura": 1.63,
+        "peso": 56,
+        "deporte": "Tiro con arco",
+        "ciudad_residencia": "Pereira"
+    },
+    {
+        "nombre": "Nora Valdez",
+        "edad": 28,
+        "sexo": "Femenino",
+        "estatura": 1.65,
+        "peso": 63,
+        "deporte": "Tiro con arco",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Jagdeep Singh",
+        "edad": 25,
+        "sexo": "Masculino",
+        "estatura": 1.78,
+        "peso": 76,
+        "deporte": "Tiro con arco",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Andres Pila",
+        "edad": 35,
+        "sexo": "Masculino",
+        "estatura": 1.7,
+        "peso": 78,
+        "deporte": "Tiro con arco",
+        "ciudad_residencia": "Monter\u00eda"
+    },
+    {
+        "nombre": "Maria Monica Daza",
+        "edad": 29,
+        "sexo": "Femenino",
+        "estatura": 1.6,
+        "peso": 58,
+        "deporte": "Tiro con arco",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Sara Villalobos",
+        "edad": 24,
+        "sexo": "Femenino",
+        "estatura": 1.62,
+        "peso": 60,
+        "deporte": "Tiro con arco",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Luis Fernando Muriel",
+        "edad": 33,
+        "sexo": "Masculino",
+        "estatura": 1.79,
+        "peso": 80,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Santo Tom\u00e1s"
+    },
+    {
+        "nombre": "Diego Valoyes",
+        "edad": 29,
+        "sexo": "Masculino",
+        "estatura": 1.81,
+        "peso": 76,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Cartagena"
+    },
+    {
+        "nombre": "Jaminton Campaz",
+        "edad": 25,
+        "sexo": "Masculino",
+        "estatura": 1.68,
+        "peso": 69,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Tumaco"
+    },
+    {
+        "nombre": "Kevin Casta\u00f1o",
+        "edad": 25,
+        "sexo": "Masculino",
+        "estatura": 1.76,
+        "peso": 71,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Itag\u00fc\u00ed"
+    },
+    {
+        "nombre": "Yaser Asprilla",
+        "edad": 22,
+        "sexo": "Masculino",
+        "estatura": 1.86,
+        "peso": 74,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Bajo Baud\u00f3"
+    },
+    {
+        "nombre": "Oscar Cort\u00e9s",
+        "edad": 22,
+        "sexo": "Masculino",
+        "estatura": 1.76,
+        "peso": 72,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Tumaco"
+    },
+    {
+        "nombre": "Willian Tesillo",
+        "edad": 36,
+        "sexo": "Masculino",
+        "estatura": 1.84,
+        "peso": 78,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Barranquilla"
+    },
+    {
+        "nombre": "Frank Fabra",
+        "edad": 35,
+        "sexo": "Masculino",
+        "estatura": 1.74,
+        "peso": 82,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Nech\u00ed"
+    },
+    {
+        "nombre": "Deiver Machado",
+        "edad": 32,
+        "sexo": "Masculino",
+        "estatura": 1.72,
+        "peso": 70,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Tad\u00f3"
+    },
+    {
+        "nombre": "Andr\u00e9s Llin\u00e1s",
+        "edad": 28,
+        "sexo": "Masculino",
+        "estatura": 1.88,
+        "peso": 81,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Juan Pablo Vargas",
+        "edad": 30,
+        "sexo": "Masculino",
+        "estatura": 1.92,
+        "peso": 84,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Daniel Ruiz",
+        "edad": 24,
+        "sexo": "Masculino",
+        "estatura": 1.72,
+        "peso": 68,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Leonardo Castro",
+        "edad": 33,
+        "sexo": "Masculino",
+        "estatura": 1.75,
+        "peso": 71,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Pereira"
+    },
+    {
+        "nombre": "Dorlan Pab\u00f3n",
+        "edad": 38,
+        "sexo": "Masculino",
+        "estatura": 1.7,
+        "peso": 74,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Jefferson Duque",
+        "edad": 38,
+        "sexo": "Masculino",
+        "estatura": 1.83,
+        "peso": 81,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Adrian Ramos",
+        "edad": 40,
+        "sexo": "Masculino",
+        "estatura": 1.85,
+        "peso": 80,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Santander de Quilichao"
+    },
+    {
+        "nombre": "Te\u00f3filo Guti\u00e9rrez",
+        "edad": 40,
+        "sexo": "Masculino",
+        "estatura": 1.78,
+        "peso": 76,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Barranquilla"
+    },
+    {
+        "nombre": "Macnelly Torres",
+        "edad": 41,
+        "sexo": "Masculino",
+        "estatura": 1.7,
+        "peso": 72,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Barranquilla"
+    },
+    {
+        "nombre": "Abel Aguilar",
+        "edad": 41,
+        "sexo": "Masculino",
+        "estatura": 1.85,
+        "peso": 81,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Mario Yepes",
+        "edad": 50,
+        "sexo": "Masculino",
+        "estatura": 1.86,
+        "peso": 83,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "Faryd Mondrag\u00f3n",
+        "edad": 54,
+        "sexo": "Masculino",
+        "estatura": 1.91,
+        "peso": 95,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "Orlando Duque",
+        "edad": 51,
+        "sexo": "Masculino",
+        "estatura": 1.75,
+        "peso": 70,
+        "deporte": "Clavados",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "Sebastian Morales",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.73,
+        "peso": 68,
+        "deporte": "Clavados",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Daniel Restrepo",
+        "edad": 26,
+        "sexo": "Masculino",
+        "estatura": 1.7,
+        "peso": 66,
+        "deporte": "Clavados",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Luis Felipe Uribe",
+        "edad": 24,
+        "sexo": "Masculino",
+        "estatura": 1.72,
+        "peso": 67,
+        "deporte": "Clavados",
+        "ciudad_residencia": "Pereira"
+    },
+    {
+        "nombre": "Diana Pineda",
+        "edad": 41,
+        "sexo": "Femenino",
+        "estatura": 1.6,
+        "peso": 55,
+        "deporte": "Clavados",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Viviana Uribe",
+        "edad": 24,
+        "sexo": "Femenino",
+        "estatura": 1.62,
+        "peso": 56,
+        "deporte": "Clavados",
+        "ciudad_residencia": "Pereira"
+    },
+    {
+        "nombre": "Monica Sarai Arango",
+        "edad": 33,
+        "sexo": "Femenino",
+        "estatura": 1.68,
+        "peso": 58,
+        "deporte": "Nataci\u00f3n art\u00edstica",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Estefan\u00eda \u00c1lvarez",
+        "edad": 31,
+        "sexo": "Femenino",
+        "estatura": 1.7,
+        "peso": 60,
+        "deporte": "Nataci\u00f3n art\u00edstica",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Gustavo S\u00e1nchez",
+        "edad": 25,
+        "sexo": "Masculino",
+        "estatura": 1.75,
+        "peso": 70,
+        "deporte": "Nataci\u00f3n art\u00edstica",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "Jorge Mario Murillo",
+        "edad": 34,
+        "sexo": "Masculino",
+        "estatura": 1.85,
+        "peso": 80,
+        "deporte": "Nataci\u00f3n",
+        "ciudad_residencia": "La Ceja"
+    },
+    {
+        "nombre": "Omar Pinz\u00f3n",
+        "edad": 36,
+        "sexo": "Masculino",
+        "estatura": 1.9,
+        "peso": 84,
+        "deporte": "Nataci\u00f3n",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Isabella Arcila",
+        "edad": 32,
+        "sexo": "Femenino",
+        "estatura": 1.78,
+        "peso": 66,
+        "deporte": "Nataci\u00f3n",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "Stefan\u00eda G\u00f3mez",
+        "edad": 21,
+        "sexo": "Femenino",
+        "estatura": 1.72,
+        "peso": 62,
+        "deporte": "Nataci\u00f3n",
+        "ciudad_residencia": "Pereira"
+    },
+    {
+        "nombre": "Juan Manuel Morales",
+        "edad": 25,
+        "sexo": "Masculino",
+        "estatura": 1.82,
+        "peso": 76,
+        "deporte": "Nataci\u00f3n",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "Karen Durango",
+        "edad": 24,
+        "sexo": "Femenino",
+        "estatura": 1.68,
+        "peso": 59,
+        "deporte": "Nataci\u00f3n",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Sirena Rowe",
+        "edad": 28,
+        "sexo": "Femenino",
+        "estatura": 1.75,
+        "peso": 64,
+        "deporte": "Nataci\u00f3n",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Yhonny Renter\u00eda",
+        "edad": 28,
+        "sexo": "Masculino",
+        "estatura": 1.75,
+        "peso": 72,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "Ronal Longa",
+        "edad": 21,
+        "sexo": "Masculino",
+        "estatura": 1.85,
+        "peso": 78,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Natalia Linares",
+        "edad": 23,
+        "sexo": "Femenino",
+        "estatura": 1.7,
+        "peso": 62,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Valledupar"
+    },
+    {
+        "nombre": "Arnovis Dalmero",
+        "edad": 25,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 74,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Santa Marta"
+    },
+    {
+        "nombre": "Geiner Moreno",
+        "edad": 25,
+        "sexo": "Masculino",
+        "estatura": 1.88,
+        "peso": 79,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Cartagena"
+    },
+    {
+        "nombre": "Flor Denis Ruiz",
+        "edad": 35,
+        "sexo": "Femenino",
+        "estatura": 1.75,
+        "peso": 74,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Pradera"
+    },
+    {
+        "nombre": "Maria Lucelly Murillo",
+        "edad": 34,
+        "sexo": "Femenino",
+        "estatura": 1.72,
+        "peso": 72,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Turbo"
+    },
+    {
+        "nombre": "Mauricio Ortega",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.93,
+        "peso": 115,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Apartad\u00f3"
+    },
+    {
+        "nombre": "Brigitte Merlano",
+        "edad": 43,
+        "sexo": "Femenino",
+        "estatura": 1.7,
+        "peso": 63,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Barranquilla"
+    },
+    {
+        "nombre": "Evelis Aguilar",
+        "edad": 33,
+        "sexo": "Femenino",
+        "estatura": 1.75,
+        "peso": 68,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Apartad\u00f3"
+    },
+    {
+        "nombre": "Lina Licona",
+        "edad": 27,
+        "sexo": "Femenino",
+        "estatura": 1.68,
+        "peso": 58,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Angie Orjuela",
+        "edad": 36,
+        "sexo": "Femenino",
+        "estatura": 1.62,
+        "peso": 48,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Ivan Gonz\u00e1lez",
+        "edad": 38,
+        "sexo": "Masculino",
+        "estatura": 1.7,
+        "peso": 58,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Gerard Giraldo",
+        "edad": 36,
+        "sexo": "Masculino",
+        "estatura": 1.72,
+        "peso": 60,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Armenia"
+    },
+    {
+        "nombre": "Carlos Sanmart\u00edn",
+        "edad": 32,
+        "sexo": "Masculino",
+        "estatura": 1.74,
+        "peso": 62,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Villavicencio"
+    },
+    {
+        "nombre": "Camilo Camargo",
+        "edad": 26,
+        "sexo": "Masculino",
+        "estatura": 1.78,
+        "peso": 68,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Melissa Gonz\u00e1lez",
+        "edad": 31,
+        "sexo": "Femenino",
+        "estatura": 1.7,
+        "peso": 60,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Barranquilla"
+    },
+    {
+        "nombre": "Valeria Cabezas",
+        "edad": 25,
+        "sexo": "Femenino",
+        "estatura": 1.72,
+        "peso": 62,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "Martha Valeria Araujo",
+        "edad": 29,
+        "sexo": "Femenino",
+        "estatura": 1.74,
+        "peso": 65,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Tumaco"
+    },
+    {
+        "nombre": "Mayra Gaviria",
+        "edad": 29,
+        "sexo": "Femenino",
+        "estatura": 1.7,
+        "peso": 75,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Apartad\u00f3"
+    },
+    {
+        "nombre": "Fabi\u00e1n Serna",
+        "edad": 30,
+        "sexo": "Masculino",
+        "estatura": 1.85,
+        "peso": 105,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Pereira"
+    },
+    {
+        "nombre": "Sandra Lemos",
+        "edad": 37,
+        "sexo": "Femenino",
+        "estatura": 1.78,
+        "peso": 95,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Pradera"
+    },
+    {
+        "nombre": "Billy Julio",
+        "edad": 29,
+        "sexo": "Masculino",
+        "estatura": 1.82,
+        "peso": 88,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Barranquilla"
+    },
+    {
+        "nombre": "Jose Lemos",
+        "edad": 35,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 85,
+        "deporte": "Atletismo",
+        "ciudad_residencia": "Pradera"
+    },
+    {
+        "nombre": "Ubaldina Valoyes",
+        "edad": 43,
+        "sexo": "Femenino",
+        "estatura": 1.65,
+        "peso": 75,
+        "deporte": "Levantamiento de pesas",
+        "ciudad_residencia": "Apartad\u00f3"
+    },
+    {
+        "nombre": "Oscar Figueroa",
+        "edad": 42,
+        "sexo": "Masculino",
+        "estatura": 1.62,
+        "peso": 62,
+        "deporte": "Levantamiento de pesas",
+        "ciudad_residencia": "Cartago"
+    },
+    {
+        "nombre": "Diego Salazar",
+        "edad": 45,
+        "sexo": "Masculino",
+        "estatura": 1.6,
+        "peso": 62,
+        "deporte": "Levantamiento de pesas",
+        "ciudad_residencia": "Tulu\u00e1"
+    },
+    {
+        "nombre": "Mabel Mosquera",
+        "edad": 56,
+        "sexo": "Femenino",
+        "estatura": 1.58,
+        "peso": 53,
+        "deporte": "Levantamiento de pesas",
+        "ciudad_residencia": "Quibd\u00f3"
+    },
+    {
+        "nombre": "Leidy Solis",
+        "edad": 36,
+        "sexo": "Femenino",
+        "estatura": 1.64,
+        "peso": 76,
+        "deporte": "Levantamiento de pesas",
+        "ciudad_residencia": "Tulu\u00e1"
+    },
+    {
+        "nombre": "Rusmeris Villar",
+        "edad": 42,
+        "sexo": "Femenino",
+        "estatura": 1.55,
+        "peso": 53,
+        "deporte": "Levantamiento de pesas",
+        "ciudad_residencia": "Cartagena"
+    },
+    {
+        "nombre": "Nathalia Llamosa",
+        "edad": 28,
+        "sexo": "Femenino",
+        "estatura": 1.58,
+        "peso": 64,
+        "deporte": "Levantamiento de pesas",
+        "ciudad_residencia": "Palmira"
+    },
+    {
+        "nombre": "Luis Qui\u00f1ones",
+        "edad": 34,
+        "sexo": "Masculino",
+        "estatura": 1.78,
+        "peso": 73,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Barranquilla"
+    },
+    {
+        "nombre": "Juan Pablo Pino",
+        "edad": 38,
+        "sexo": "Masculino",
+        "estatura": 1.76,
+        "peso": 74,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Hugo Rodallega",
+        "edad": 40,
+        "sexo": "Masculino",
+        "estatura": 1.81,
+        "peso": 80,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Candelaria"
+    },
+    {
+        "nombre": "Dayro Moreno",
+        "edad": 40,
+        "sexo": "Masculino",
+        "estatura": 1.78,
+        "peso": 75,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Chicoral"
+    },
+    {
+        "nombre": "Wilder Medina",
+        "edad": 45,
+        "sexo": "Masculino",
+        "estatura": 1.79,
+        "peso": 78,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Puerto Nare"
+    },
+    {
+        "nombre": "Andr\u00e9s Ricaurte",
+        "edad": 34,
+        "sexo": "Masculino",
+        "estatura": 1.74,
+        "peso": 70,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Jarlan Barrera",
+        "edad": 30,
+        "sexo": "Masculino",
+        "estatura": 1.71,
+        "peso": 72,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Santa Marta"
+    },
+    {
+        "nombre": "Emanuel Olivera",
+        "edad": 35,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 78,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Barranquilla"
+    },
+    {
+        "nombre": "Yimmi Char\u00e1",
+        "edad": 34,
+        "sexo": "Masculino",
+        "estatura": 1.62,
+        "peso": 65,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "Brayan Le\u00f3n",
+        "edad": 25,
+        "sexo": "Masculino",
+        "estatura": 1.78,
+        "peso": 74,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Turbaco"
+    },
+    {
+        "nombre": "Kevin Viveros",
+        "edad": 25,
+        "sexo": "Masculino",
+        "estatura": 1.82,
+        "peso": 79,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Buenaventura"
+    },
+    {
+        "nombre": "Brahian Palacios",
+        "edad": 23,
+        "sexo": "Masculino",
+        "estatura": 1.78,
+        "peso": 70,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Nelson Deossa",
+        "edad": 26,
+        "sexo": "Masculino",
+        "estatura": 1.78,
+        "peso": 73,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Marmato"
+    },
+    {
+        "nombre": "Edwuin Cetr\u00e9",
+        "edad": 28,
+        "sexo": "Masculino",
+        "estatura": 1.69,
+        "peso": 75,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Barranquilla"
+    },
+    {
+        "nombre": "Jaminton Campaz",
+        "edad": 25,
+        "sexo": "Masculino",
+        "estatura": 1.68,
+        "peso": 69,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Tumaco"
+    },
+    {
+        "nombre": "Daniel Ruiz",
+        "edad": 24,
+        "sexo": "Masculino",
+        "estatura": 1.72,
+        "peso": 68,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Bogot\u00e1"
+    },
+    {
+        "nombre": "Tomas Angel",
+        "edad": 23,
+        "sexo": "Masculino",
+        "estatura": 1.75,
+        "peso": 70,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Juan David Cabal",
+        "edad": 25,
+        "sexo": "Masculino",
+        "estatura": 1.86,
+        "peso": 80,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "Devis Vasquez",
+        "edad": 27,
+        "sexo": "Masculino",
+        "estatura": 1.95,
+        "peso": 90,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Barranquilla"
+    },
+    {
+        "nombre": "Gustavo Puerta",
+        "edad": 22,
+        "sexo": "Masculino",
+        "estatura": 1.73,
+        "peso": 70,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "La Victoria"
+    },
+    {
+        "nombre": "Oscar Perea",
+        "edad": 20,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 74,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Pereira"
+    },
+    {
+        "nombre": "Samuel Velasquez",
+        "edad": 21,
+        "sexo": "Masculino",
+        "estatura": 1.75,
+        "peso": 70,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Medell\u00edn"
+    },
+    {
+        "nombre": "Andres Salazar",
+        "edad": 23,
+        "sexo": "Masculino",
+        "estatura": 1.82,
+        "peso": 75,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Guarne"
+    },
+    {
+        "nombre": "Edier Ocampo",
+        "edad": 22,
+        "sexo": "Masculino",
+        "estatura": 1.74,
+        "peso": 70,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Tumaco"
+    },
+    {
+        "nombre": "Luis Marquinez",
+        "edad": 22,
+        "sexo": "Masculino",
+        "estatura": 1.87,
+        "peso": 80,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Tumaco"
+    },
+    {
+        "nombre": "Alejandro Rodriguez",
+        "edad": 25,
+        "sexo": "Masculino",
+        "estatura": 1.86,
+        "peso": 81,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Panam\u00e1 (Res. Cali)"
+    },
+    {
+        "nombre": "Juan Camilo Portilla",
+        "edad": 27,
+        "sexo": "Masculino",
+        "estatura": 1.75,
+        "peso": 70,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Cali"
+    },
+    {
+        "nombre": "Diber Cambindo",
+        "edad": 30,
+        "sexo": "Masculino",
+        "estatura": 1.88,
+        "peso": 83,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Guachen\u00e9"
+    },
+    {
+        "nombre": "Julian Qui\u00f1ones",
+        "edad": 28,
+        "sexo": "Masculino",
+        "estatura": 1.8,
+        "peso": 78,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Mag\u00fc\u00ed Pay\u00e1n"
+    },
+    {
+        "nombre": "Mauro Manotas",
+        "edad": 30,
+        "sexo": "Masculino",
+        "estatura": 1.79,
+        "peso": 76,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Sabanalarga"
+    },
+    {
+        "nombre": "Harold Preciado",
+        "edad": 31,
+        "sexo": "Masculino",
+        "estatura": 1.82,
+        "peso": 78,
+        "deporte": "F\u00fatbol",
+        "ciudad_residencia": "Tumaco"
+    }
+]
